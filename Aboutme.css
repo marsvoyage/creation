@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    background-color:rgb(216, 210, 203);
+}
+.attention{
+    font-family: cursive;
+    font-size: 15px;
+    /*margin-left: 20px;*/
+}
+.block{
+    margin: 30px 30px auto 30px;
+}
+.tag1{
+    font-family: cursive;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(88, 12, 6);
+}
+.tag2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(88, 12, 6);
+}
+.tag3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(88, 12, 6);
+}
